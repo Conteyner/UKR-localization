@@ -1,0 +1,9 @@
+﻿l_russian:
+gas: "газ"
+ gas_desc: "Газ використовується для обігріву в зимовий час, але майже не використовується для військових потреб"
+ PRODUCTION_MATERIALS_GAS: "Газ"
+ state_resource_gas: "газ"
+ temporary_state_resource_gas: "газ"
+ country_resource_gas: "Газ"
+ state_resource_cost_gas: "Витрата газу"
+ country_resource_cost_gas: "Витрата газу"

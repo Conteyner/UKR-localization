@@ -1,0 +1,13 @@
+﻿l_russian:
+ #Стандартні модифікатори
+ recognize_as_occupied_territory: "Окупована територія"
+ recognize_as_occupied_territory_trade: "Сприймають як окуповану територію"
+ separatists: "Сепаратисти"
+ terrorists: "Терористи"
+ support_russia: "Підтримав Росію"
+ support_ukraine: "Підтримав Україну"
+ support_us: "Підтримав нас"
+ 
+ #Проросійські модифікатори
+ mother_russia: "Мати Росія"
+ RUS_lukash_oxyel: "Зрада Білорусі"
